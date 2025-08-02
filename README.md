@@ -46,10 +46,10 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Facebook](https://img.shields.io/badge/-Facebook-0A66C2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-khean-viari-33298429a/)
+[![Facebook](https://img.shields.io/badge/-Facebook-0A66C2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/kenney.kawamatsu.7)
 [![Twitter](https://img.shields.io/badge/-Twitter-0A66C2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/-Instagram-0A66C2?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Instagram](https://img.shields.io/badge/-Instagram-0A66C2?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/k3nny1e/)
 [![Email](https://img.shields.io/badge/-Email-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 ---
