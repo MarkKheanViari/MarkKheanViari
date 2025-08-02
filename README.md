@@ -1,55 +1,58 @@
 # 👋 Hi, I'm Mark Khean Viari!
 
-🎯 Backend Developer | ☁️ Cloud Engineer | 📊 Project Manager | 🎮 Game Developer  
+🎯 **Backend Developer** | ☁️ **Cloud Engineer** | 📊 **Project Manager** | 🎮 **Game Developer**  
 📍 Passionate about building scalable systems, managing smart tech projects, and creating immersive game experiences.
 
 ---
 
-### 🛠️ Tech & Tools
+## 🛠️ Tech & Tools
 
 **Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-0A66C2?style=flat&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-0A66C2?style=flat&logo=django&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-0A66C2?style=flat&logo=php&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-0A66C2?style=flat&logo=postgresql&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-0A66C2?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 **Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/-AWS-0A66C2?style=flat&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-0A66C2?style=flat&logo=docker&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-0A66C2?style=flat&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**Game Dev**  
-![Unity](https://img.shields.io/badge/-Unity-0A66C2?style=flat&logo=unity&logoColor=white)  
-![Blender](https://img.shields.io/badge/-Blender-0A66C2?style=flat&logo=blender&logoColor=white)
+**Game Development**  
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 **Others**  
-![Linux](https://img.shields.io/badge/-Linux-0A66C2?style=flat&logo=linux&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-0A66C2?style=flat&logo=visual-studio-code&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-0A66C2?style=flat&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 💡 Currently Exploring
-- Smart AI Systems for Education & Infrastructure  
-- Scalable Backend Architecture  
-- Cloud Automation with CI/CD
+## 💡 Currently Exploring
+
+- Smart AI Systems for Education & Infrastructure
+- Scalable Backend Architectures
+- Cloud Automation & CI/CD
+- Game Design Principles
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkKheanViari&show_icons=true&theme=blueberry)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkKheanViari&layout=compact&theme=blueberry)
+![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkKheanViari&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkKheanViari&layout=compact&theme=transparent)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-khean-viari-33298429a/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kenney.kawamatsu.7)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k3nny1e/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 ---
 
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-khean-viari-33298429a/)
-[![Facebook](https://img.shields.io/badge/-Facebook-0A66C2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/kenney.kawamatsu.7)
-[![Twitter](https://img.shields.io/badge/-Twitter-0A66C2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/-Instagram-0A66C2?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/k3nny1e/)
-[![Email](https://img.shields.io/badge/-Email-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
----
